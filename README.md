@@ -1,6 +1,6 @@
-<h1>Hi, I'm Olasupo! <br/><a href="https://github.com/olapelummy">Computer Enginner</a>, <a href="https://www.linkedin.com/in/afolabi-olasupo-emmanuel">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/olaptechnology>Cloud/DevOps Engineer</a></h1>
+<h1>Hi, I'm Olasupo! <br/><a href="https://github.com/olapelummy">Computer Enginer</a>,<a href="https://www.linkedin.com/in/afolabi-olasupo-emmanuel">Cybersecurity Professional</a>,<a href="https://www.youtube.com/c/olaptechnology>Cloud/DevOps Engineer</a></h1>
 
-<h2>👨‍💻 Cybersecurity Projects:</h2>
+<h2>👨‍💻Cybersecurity Projects:</h2>
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
